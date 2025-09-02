@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+Tools/
+Jira/
+MyHours/
+Properties/
+build/
+BraveUserData
+AzureDevOps/
