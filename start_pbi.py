@@ -42,7 +42,7 @@ def show_popup():
 
 
 print ("Test if we need to wait the page of the user / password")
-if tools.waitLoadingPageByID2(5, 'email-label') :
+if tools.waitLoadingPageByID2(20, 'email-label') :
     # show_popup()
     # print ("Need to wait the page of the password")
     # tools.waitLoadingPageByID2(10, 'email-label')
